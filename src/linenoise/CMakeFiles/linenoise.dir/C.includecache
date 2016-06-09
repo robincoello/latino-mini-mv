@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/primi/src/latino-mini/src/linenoise/linenoise.c
+windows.h
+-
+fcntl.h
+-
+termios.h
+-
+sys/ioctl.h
+-
+sys/poll.h
+-
+unistd.h
+-
+stdlib.h
+-
+stdarg.h
+-
+stdio.h
+-
+errno.h
+-
+string.h
+-
+stdlib.h
+-
+sys/types.h
+-
+linenoise.h
+/home/primi/src/latino-mini/src/linenoise/linenoise.h
+utf8.h
+/home/primi/src/latino-mini/src/linenoise/utf8.h
+
+/home/primi/src/latino-mini/src/linenoise/linenoise.h
+
+/home/primi/src/latino-mini/src/linenoise/utf8.h
+ctype.h
+-
+

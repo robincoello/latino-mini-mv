@@ -1,0 +1,4 @@
+a = 10
+si (a == 10)
+    escribir("a si vale 10")
+fin

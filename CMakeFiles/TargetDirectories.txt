@@ -1,0 +1,2 @@
+/home/primi/src/latino-mini/src/CMakeFiles/latino.dir
+/home/primi/src/latino-mini/src/linenoise/CMakeFiles/linenoise.dir
