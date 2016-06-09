@@ -1,0 +1,22 @@
+#ignora directorios
+bin/
+CMakeFiles/
+Release/
+codeblocks/doxygen/
+Testing/
+test/
+
+#ignora archivos
+*.a
+*.o
+*.gch
+*.exe
+CMakeCache.txt
+cmake_install.cmake
+CTestTestfile.cmake
+compile_commands.json
+install_manifest.txt
+prueba.txt
+histoy.txt
+Makefile
+<scratch>
